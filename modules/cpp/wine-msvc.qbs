@@ -33,7 +33,6 @@ import qbs.File
 import qbs.FileInfo
 import qbs.ModUtils
 import qbs.PathTools
-import cor3ntin.Probes as WineProbes
 import qbs.Probes
 import qbs.Utilities
 import qbs.WindowsUtils
